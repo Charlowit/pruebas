@@ -21,4 +21,11 @@ int main(){
 		cout << "El numero " << x << " No es primo" << endl;	
 	}
 ////// otra cosa rara que estoy creando aqui
+no
+nono
+nonon
+
+no
+no
+
 }
