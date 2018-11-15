@@ -20,5 +20,5 @@ int main(){
 	else{
 		cout << "El numero " << x << " No es primo" << endl;	
 	}
-asdf
+////// otra cosa rara que estoy creando aqui
 }
